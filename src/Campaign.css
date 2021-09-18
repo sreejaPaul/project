@@ -1,0 +1,105 @@
+#campaigndiv{
+    margin-top: -780px;
+    margin-left: 300px;
+    position: absolute;
+    
+    
+}
+#refresh{
+    height: 30px;
+    width: 30px;
+    margin-left: 735px;
+    margin-top: 32px;
+    border-radius: 10px;
+}
+#create{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    padding: 5px;;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 28px;
+    margin-right: 28px;
+}
+#allcamp{
+    display: inline-block;
+    margin-left: 30px;
+}
+#quickcamp{
+    display: inline-block;
+    margin-left: 50px;
+    color: lightgrey;
+}
+#csvcamp{
+    display: inline-block;
+    margin-left:50px;
+    color: lightgrey;
+}
+#urlcamp{
+    display: inline-block;
+    margin-left: 30px;
+    color:lightgrey;
+}
+#checkbox{
+    display: inline-block;
+    margin-left: 350px;
+}
+#bottom{
+    display: inline-block;
+    background-color: #EFF4F5;
+    width: 100%;
+    height: 20%;
+    margin-top: 180px;
+}
+#btmtext{
+    float: left;
+    padding: 20px;
+}
+#btnbutton{
+    float: right;
+}
+.btn{
+    border: none;
+    padding:20px;
+    background-color: #EFF4F5;
+    cursor: pointer;
+}
+@media only screen and (max-device-width: 770px){
+    #campaigndiv{
+        position: absolute;
+        margin-top: -1000px;
+        margin-left: 110px;
+        
+    }
+    #refresh{
+        height: 25px;
+        width: 25px;
+        padding: 10px 0px 10px 10px;
+        margin-left: 250px;
+        border-radius: 10px;
+    }
+    #create{
+        width: 110px;
+        height: 70px;
+        padding: 5px;   
+    }
+    #quickcamp{
+        margin-left: 20px;
+        width: 80px;
+    }
+    #csvcamp{
+        margin-left: 20px;
+        width: 80px;
+    }
+    #urlcamp{
+        margin-left: 20px;
+        width: 80px;
+    }
+    #checkbox{
+        margin-left: 20px;
+    }
+    #bottom{
+        margin-top: 320px;
+    }
+}

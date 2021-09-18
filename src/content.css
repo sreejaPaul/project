@@ -1,0 +1,103 @@
+#content{
+    margin-top: 30px;
+    margin-left: 28px;
+    display: inline-block;
+    font-weight: bold;
+    color:grey;
+}
+.clm{
+    
+    margin: 20px 56px 20px 49px;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+}
+
+#Success{
+    color:green;
+    font-weight: bold;
+    background-color: #D0FBDB;
+    display: inline-block;
+    border-radius: 50px;
+    padding:6px;
+}
+#fail{
+    color: red;
+    font-weight: bold;
+    background-color: #FAE0E3;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 6px;
+}
+.body{
+    padding: 20px;
+    display: inline-block;
+    margin: 10px 20px 0px 34px;
+    padding: 5px 10px 10px 5px;  
+    color:black; 
+    text-align: left;
+
+}
+#cname{
+    width: 225px;
+}
+#statusname{
+    width: 80px;
+}
+#createdat{
+    width: 185px;
+    text-align: center;
+}
+#methodname{
+    width: 90px;
+}
+#medianame{
+    width: 90px;
+}
+#action{
+    width: 90px;
+}
+
+@media only screen and (max-device-width: 770px){
+    #content{
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .clm{
+        margin:0px;
+        margin-left: 2px;
+        padding: 10px;
+    }
+    
+    #Success{
+        padding:2px;
+    }
+    #fail{
+        padding: 2px;
+    }
+    .body{
+        padding: 5px;
+        margin: 10px 20px 0px 10px;
+        padding: 5px 10px 10px 5px;  
+    
+    }
+    #cname{
+        width: 110px;
+    }
+    #statusname{
+        width: 30px;
+    }
+    #createdat{
+        width: 35px;
+        
+    }
+    #methodname{
+        width: 35px;
+    }
+    #medianame{
+        width: 35px;
+    }
+    #action{
+        width: 25px;
+    }
+}

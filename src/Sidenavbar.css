@@ -1,0 +1,49 @@
+#sidenav{
+    width: 300px;
+    border-right: 1px solid lightgrey;
+}
+.navitem{
+    padding: 25px;
+    color: grey;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.item{
+    width: 50px;
+    height: 50px;
+    margin: -8px 8px 10px 10px;
+}
+
+#logo{
+    margin:20px;
+    margin-left: 30px;
+    width: 180px;
+}
+
+#upgrade{
+    margin: 50px 10px 10px 10px;
+    width:250px;
+    border-radius: 10px;
+}
+
+@media only screen and (max-device-width: 770px){
+    #sidenav{
+        width: 120px;
+    }
+    .navitem{
+        padding: 20px;    
+    }
+    #logo{
+        margin:15px;
+        margin-left: 0px;
+        width: 120px;
+    }
+    #upgrade{
+        margin: 50px 10px 10px 10px;
+        width:100px;
+        border-radius: 10px;
+    }
+    
+}
+

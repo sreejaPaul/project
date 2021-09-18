@@ -1,0 +1,154 @@
+[
+    {
+        "CampaignName": "Website Promotion - Landing",
+        "status": "Success",
+        "CreatedAt": "17 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "App Download",
+        "status": "Failed",
+        "CreatedAt": "15 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Social Media Promotion",
+        "status": "Success",
+        "CreatedAt": "14 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Linkedin Templates",
+        "status": "Failed",
+        "CreatedAt": "13 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "App Download",
+        "status": "Failed",
+        "CreatedAt": "12 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Website Promotion - Landing",
+        "status": "Success",
+        "CreatedAt": "11 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Linkedin Templates",
+        "status": "Failed",
+        "CreatedAt": "10 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Social Media Promotion",
+        "status": "Success",
+        "CreatedAt": "9 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Website Promotion - Landing",
+        "status": "Success",
+        "CreatedAt": "8 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "App Download",
+        "status": "Failed",
+        "CreatedAt": "7 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Social Media Promotion",
+        "status": "Success",
+        "CreatedAt": "6 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Linkedin Templates",
+        "status": "Failed",
+        "CreatedAt": "5 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "App Download",
+        "status": "Failed",
+        "CreatedAt": "4 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Website Promotion - Landing",
+        "status": "Success",
+        "CreatedAt": "3 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Linkedin Templates",
+        "status": "Failed",
+        "CreatedAt": "2 Jun 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Social Media Promotion",
+        "status": "Success",
+        "CreatedAt": "1 Jun 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Website Promotion - Landing",
+        "status": "Success",
+        "CreatedAt": "28 May 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "App Download",
+        "status": "Failed",
+        "CreatedAt": "27 May 2021",
+        "Method" : "URL Override"
+    },
+    {
+        "CampaignName": "Social Media Promotion",
+        "status": "Success",
+        "CreatedAt": "26 May 2021",
+        "Method" : "CSV"
+    },
+    {
+        "CampaignName": "Linkedin Templates",
+        "status": "Failed",
+        "CreatedAt": "25 May 2021",
+        "Method" : "URL Override"
+    },
+    
+{
+    "CampaignName": "App Download",
+    "status": "Failed",
+    "CreatedAt": "24 May 2021",
+    "Method" : "URL Override"
+},
+{
+    "CampaignName": "Website Promotion - Landing",
+    "status": "Success",
+    "CreatedAt": "23 May 2021",
+    "Method" : "CSV"
+},
+{
+    "CampaignName": "Linkedin Templates",
+    "status": "Failed",
+    "CreatedAt": "22 May 2021",
+    "Method" : "URL Override"
+},
+{
+    "CampaignName": "Social Media Promotion",
+    "status": "Success",
+    "CreatedAt": "21 May 2021",
+    "Method" : "CSV"
+},
+{
+    "CampaignName": "Website Promotion - Landing",
+    "status": "Success",
+    "CreatedAt": "20 May 2021",
+    "Method" : "CSV"
+}
+    
+]
